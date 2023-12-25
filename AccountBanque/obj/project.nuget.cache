@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6+rKaqTOp0FOUCF+fLJ4vNNVJW//nz9lF9LTMim57gwjoJjDvu16Smhi2rxUo1CnJF45ye0EEkrIrlFa/qXaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\steph\\source\\repos\\AccountBanque\\AccountBanque\\AccountBanque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steph\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\steph\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\steph\\.nuget\\packages\\mysqlconnector\\2.3.3\\mysqlconnector.2.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
